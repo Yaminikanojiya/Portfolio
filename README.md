@@ -23,12 +23,7 @@ The website focuses on smooth animations, structured layout, and responsive desi
 - Certificate Carousel with Drag Support
 - Full-Screen Certificate Preview
 - Modern Gradient UI Theme
-
-## 🌍 Live Demo
-
-
-
-## 📂 GitHub Repository
+🌍 Live Demo
 
 
 
