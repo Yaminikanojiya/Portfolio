@@ -26,11 +26,11 @@ The website focuses on smooth animations, structured layout, and responsive desi
 
 ## 🌍 Live Demo
 
-(Add your deployed link here)
+
 
 ## 📂 GitHub Repository
 
-(Add your GitHub repo link here)
+
 
 ---
 
